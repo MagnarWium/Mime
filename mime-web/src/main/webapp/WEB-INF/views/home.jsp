@@ -1,5 +1,5 @@
 <!doctype html>
 <html lang="en">
  
-MIME'me bitch:S
+MIME'me yay!
 </html>
